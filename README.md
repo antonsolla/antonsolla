@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
 <h3 align="center">Loving what data has to say.</h3>
 
-- 🌱 I’m currently learning more about Python, NLP and APIs
+- 🌱 Currently learning more about Python, NLP and APIs.
 
-- 👯 I’m looking to collaborate on projects that can make an impact on education world.
+- 👯 I’m looking to collaborate on projects that can make an impact on the education world.
 
-- 💬 Ask me about **my journey and experience. Would be a pleasure to share.**
+- 💬 Ask me about my journey and experience. Would be a pleasure to share.
 
-- 📫 How to reach me **andrea_anton93@hotmail.es**
+- 📫 How to reach me andrea_anton93@hotmail.es
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
