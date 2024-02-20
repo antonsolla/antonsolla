@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrea. I come from Spain but currently living in London.
+- 👋 Hi, I’m Andrea. 
 - 👀 I'm interested in creating innovative solutions using Data Science and driving meaningful impact.
 - 🌱 I'm currently learning Data Science to stay at the forefront of trends and enhance my skill set.
 - 💞️ I'm looking to collaborate on projects that align with my passion for education, also open and motivated to discover new areas, where I can contribute my skills and learn from fellow professionals.
