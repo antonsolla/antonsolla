@@ -19,3 +19,16 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonsolla&show_icons=true&locale=en&layout=compact" alt="antonsolla" /></p>
 <h3 align="left">More about me:</h3>
+`const julesChevrant = {
+  availableForHire: true,
+  education: "Le Wagon Paris, a 9-week full-time intensive coding bootcamp",
+  otherAlias: "Data Scientist",
+  codesIn: ["Python", "VSCode", "Jupyter Notebook"],
+  pastExperience: [
+    {
+      companies : "Different schools",
+      post : "Nursery Education Officer",
+      duration : "4 years"
+    },
+  ],
+}`
