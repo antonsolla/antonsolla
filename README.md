@@ -23,7 +23,7 @@
 
 ```javascript
 const andrea_anton = {
-  availableForHire: true,
+  availableForHire: True,
   education: "Le Wagon Paris, a 9-week full-time intensive coding bootcamp",
   otherAlias: "Data Scientist",
   codesIn: ["Jupyter Notebook", "Python", "VSCode"],
