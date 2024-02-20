@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
-<h3 align="center">Loving what data has to say.</h3>
+<h align="center">_Loving what data has to say_.</h>
 
 - 🌱 Currently learning more about Python, NLP and APIs.
 
