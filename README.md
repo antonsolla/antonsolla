@@ -31,7 +31,7 @@ const andrea_anton = {
     {
       companies: "Different schools",
       post: "Nursery Education Officer",
-      duration: "4 years"
+      duration: "5 years"
     }
   ],
 }
