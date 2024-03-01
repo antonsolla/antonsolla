@@ -3,11 +3,12 @@
 
 - 🌱 Currently learning more about Python, NLP and APIs.
 
-- 👯 I’m looking to collaborate on projects that can make an impact on the education world.
+- 👯 I’m looking to collaborate on projects that can make an impact on real-life issues.
 
 - 💬 Ask me about my journey and experience. Would be a pleasure to share.
 
-- 📫 How to reach me andrea_anton93@hotmail.es
+- 📫 How to reach me www.linkedin.com/in/antonsolla
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
